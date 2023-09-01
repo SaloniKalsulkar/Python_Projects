@@ -1,4 +1,4 @@
-# Python_Projects
+# Credit Card Fraud Detection
 
 The main Objective of this project is to construct the Machine Learning-driven Fraud detection
 module and integrate it into the E-commerce platform. Whenever a user requests a transaction, it
